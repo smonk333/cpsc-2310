@@ -1,0 +1,4 @@
+Are you ready to learn?? This is going to be the best semester ever!!! These two
+sentences should only be counted as sentences once each. So, you can not just
+count the number of periods, question marks, or exclamation mark. These sentences
+are test sentences.
