@@ -2,4 +2,5 @@
 *.iml
 *.docx
 *.xml
-
+~lock.*
+._*
