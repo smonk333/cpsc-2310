@@ -1,3 +1,9 @@
+/*************************
+ *Garrett Boling
+ *CPSC 2311 001
+ *gboling@clemson.edu
+ *************************/
+
 #include <stdio.h>
 #include <assert.h>
 #include "functions.h"

@@ -1,3 +1,9 @@
+/*************************
+ *Garrett Boling
+ *CPSC 2311 001
+ *gboling@clemson.edu
+ *************************/
+
 #include "functions.h"
 #include <ctype.h>
 

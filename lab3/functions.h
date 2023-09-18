@@ -1,3 +1,9 @@
+/*************************
+ *Garrett Boling
+ *CPSC 2311 001
+ *gboling@clemson.edu
+ *************************/
+
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
