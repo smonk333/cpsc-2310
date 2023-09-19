@@ -1,3 +1,5 @@
+#include "functions.h"
+
 int** readFile(FILE* fp, int *size)
 {
     fscanf(fp, "%d", &size);

@@ -4,11 +4,11 @@
 
 int main(int argc, char** argv)
 {
-    printf("cheking command line arguments\n");
+    printf("checking command line arguments\n");
 
     if (argc < 3)
     { 
-        printf("not enought argument: ./exe filename\n"); 
+        printf("not enough arguments: ./exe filename\n");
         exit(-1);
     }
 
