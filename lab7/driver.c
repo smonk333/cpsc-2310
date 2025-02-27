@@ -30,19 +30,13 @@ int main(int argc, char **argv) {
         return 1;
     }
 
-    char *a_bin = convert_to_binary(a);
-    char *b_bin = convert_to_binary(b);
-
-    printf("a in binary: %s\n", a_bin);
-    printf("b in binary: %s\n", b_bin);
+    print_table(a, b);
 
     inplace_swap(&a, &b);
 
-    a_bin = convert_to_binary(a);
-    b_bin = convert_to_binary(b);
-
-    printf("a in binary (after swap): %s\n", a_bin);
-    printf("b in binary (after swap): %s\n", b_bin);
+    print_table(a, b);
 
     return 0;
+
+
 }
