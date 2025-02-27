@@ -2,7 +2,7 @@
 # with the -Wall, -g, and -lm flags.
 # defines the name of the final executable that is compiled from the source code
 CC = gcc
-CFLAGS = -Wall -g -save-temps
+CFLAGS = -Wall -g -save-temps -pedantic
 LFLAGS = -lm
 TARGET = out
 SRCS = driver.c functions.c
